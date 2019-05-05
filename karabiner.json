@@ -152,18 +152,10 @@
                 },
                 {
                     "from": {
-                        "key_code": "left_command"
-                    },
-                    "to": {
-                        "key_code": "fn"
-                    }
-                },
-                {
-                    "from": {
                         "key_code": "right_command"
                     },
                     "to": {
-                        "key_code": "home"
+                        "key_code": "fn"
                     }
                 },
                 {
